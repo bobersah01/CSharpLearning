@@ -1,0 +1,1 @@
+I created a repository which is called CSarpLearning for improving problem solving techniques, during the education period which will be performed apprximately 8 months. During this time, I am going to upload my problems which are taken from leetcode.
