@@ -1,0 +1,15 @@
+C:\Users\bober\source\repos\FirstClass\thirdClass\bin\Debug\net8.0\thirdClass.exe
+C:\Users\bober\source\repos\FirstClass\thirdClass\bin\Debug\net8.0\thirdClass.deps.json
+C:\Users\bober\source\repos\FirstClass\thirdClass\bin\Debug\net8.0\thirdClass.runtimeconfig.json
+C:\Users\bober\source\repos\FirstClass\thirdClass\bin\Debug\net8.0\thirdClass.dll
+C:\Users\bober\source\repos\FirstClass\thirdClass\bin\Debug\net8.0\thirdClass.pdb
+C:\Users\bober\source\repos\FirstClass\thirdClass\obj\Debug\net8.0\thirdClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bober\source\repos\FirstClass\thirdClass\obj\Debug\net8.0\thirdClass.AssemblyInfoInputs.cache
+C:\Users\bober\source\repos\FirstClass\thirdClass\obj\Debug\net8.0\thirdClass.AssemblyInfo.cs
+C:\Users\bober\source\repos\FirstClass\thirdClass\obj\Debug\net8.0\thirdClass.csproj.CoreCompileInputs.cache
+C:\Users\bober\source\repos\FirstClass\thirdClass\obj\Debug\net8.0\thirdClass.sourcelink.json
+C:\Users\bober\source\repos\FirstClass\thirdClass\obj\Debug\net8.0\thirdClass.dll
+C:\Users\bober\source\repos\FirstClass\thirdClass\obj\Debug\net8.0\refint\thirdClass.dll
+C:\Users\bober\source\repos\FirstClass\thirdClass\obj\Debug\net8.0\thirdClass.pdb
+C:\Users\bober\source\repos\FirstClass\thirdClass\obj\Debug\net8.0\thirdClass.genruntimeconfig.cache
+C:\Users\bober\source\repos\FirstClass\thirdClass\obj\Debug\net8.0\ref\thirdClass.dll
