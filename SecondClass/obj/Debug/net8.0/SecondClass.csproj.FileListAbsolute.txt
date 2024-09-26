@@ -1,0 +1,15 @@
+C:\Users\bober\source\repos\FirstClass\SecondClass\bin\Debug\net8.0\SecondClass.exe
+C:\Users\bober\source\repos\FirstClass\SecondClass\bin\Debug\net8.0\SecondClass.deps.json
+C:\Users\bober\source\repos\FirstClass\SecondClass\bin\Debug\net8.0\SecondClass.runtimeconfig.json
+C:\Users\bober\source\repos\FirstClass\SecondClass\bin\Debug\net8.0\SecondClass.dll
+C:\Users\bober\source\repos\FirstClass\SecondClass\bin\Debug\net8.0\SecondClass.pdb
+C:\Users\bober\source\repos\FirstClass\SecondClass\obj\Debug\net8.0\SecondClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bober\source\repos\FirstClass\SecondClass\obj\Debug\net8.0\SecondClass.AssemblyInfoInputs.cache
+C:\Users\bober\source\repos\FirstClass\SecondClass\obj\Debug\net8.0\SecondClass.AssemblyInfo.cs
+C:\Users\bober\source\repos\FirstClass\SecondClass\obj\Debug\net8.0\SecondClass.csproj.CoreCompileInputs.cache
+C:\Users\bober\source\repos\FirstClass\SecondClass\obj\Debug\net8.0\SecondClass.sourcelink.json
+C:\Users\bober\source\repos\FirstClass\SecondClass\obj\Debug\net8.0\SecondClass.dll
+C:\Users\bober\source\repos\FirstClass\SecondClass\obj\Debug\net8.0\refint\SecondClass.dll
+C:\Users\bober\source\repos\FirstClass\SecondClass\obj\Debug\net8.0\SecondClass.pdb
+C:\Users\bober\source\repos\FirstClass\SecondClass\obj\Debug\net8.0\SecondClass.genruntimeconfig.cache
+C:\Users\bober\source\repos\FirstClass\SecondClass\obj\Debug\net8.0\ref\SecondClass.dll
