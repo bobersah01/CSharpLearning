@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FullStack_02/1.0.0": {
+        "runtime": {
+          "FullStack_02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FullStack_02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
